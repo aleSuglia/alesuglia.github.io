@@ -67,7 +67,7 @@ education:
   - area: BSc Informatics
     institution: University of Bari, Aldo Moro
     date_start: 2011-09-01
-    date_end: 2014--09-01
+    date_end: 2014-09-01
     summary: |
       Result: full marks with distinction
       

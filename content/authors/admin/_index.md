@@ -56,15 +56,16 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.ros.hw.ac.uk/handle/10399/4645'
-  - area: MSc Artificial Intelligence and Knowledge Engineering
+  - area: MSc in Computer Science
     institution: University of Bari, Aldo Moro
     date_start: 2014-09-01
     date_end: 2017-03-22
     summary: |
+      Specialisation: Artificial Intelligence and Knowledge Engineering
       Result: full marks with distinction
 
       Thesis title: ''
-  - area: BSc Informatics
+  - area: BSc in Computer Science
     institution: University of Bari, Aldo Moro
     date_start: 2011-09-01
     date_end: 2014-09-01
@@ -133,5 +134,3 @@ awards:
 ## About Me
 
 Alessandro Suglia is an Assistant Professor at Heriot-Watt University (HWU) and co-lead of the "Generative AI for Robotics" theme at the National Robotarium. I am also a member of the ELLIS network and the academic liaison between HWU and the Alan Turing Institute.
-
-Alessandro’s research focuses on designing artificial agents that learn language by leveraging sensory information derived from interacting with the world and with other agents. During his PhD, he was one of the main developers of Alana, the Heriot-Watt conversational AI which ranked 3rd in the Amazon Alexa Prize challenge in 2018. In his role as Assistant Professor at HWU, he led the HWU team “EMMA”, the only non-American university team which was one of the finalists of the Amazon Simbot Challenge—the first Amazon competition to push the boundaries of Embodied Conversational AI. Alongside several academic collaborations, he also completed research collaborations with Amazon Alexa AI, Meta AI, and the European Space Agency focused on developing innovative Multimodal Generative AI models for embodied and situated human-robot interaction tasks.

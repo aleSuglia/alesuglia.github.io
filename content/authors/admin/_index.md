@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Dr Alessandro Suglia 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alessandro
+last_name: Suglia
 
 # Status emoji
 status:
@@ -20,69 +17,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Heriot-Watt University
+    url: https://www.hw.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alessandro.suglia@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/ale_suglia
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/aleSuglia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alessandrosuglia
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.uk/citations?hl=en&user=429MAoUAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3177-5197
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal Generative AI
+  - Embodied AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Robotics and Autonomous Systems 
+    institution: Heriot-Watt University & University of Edinburgh
+    date_start: 2017-09-01
+    date_end: 2022-03-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This thesis explores how artificial agents can learn to understand and use natural language in a grounded, embodied way, similar to humans.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://www.ros.hw.ac.uk/handle/10399/4645'
+  - area: MSc Artificial Intelligence and Knowledge Engineering
+    institution: University of Bari, Aldo Moro
+    date_start: 2014-09-01
+    date_end: 2017-03-22
     summary: |
-      GPA: 3.8/4.0
+      Result: full marks with distinction
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis title: ''
+  - area: BSc Informatics
+    institution: University of Bari, Aldo Moro
+    date_start: 2011-09-01
+    date_end: 2014--09-01
     summary: |
-      GPA: 3.4/4.0
+      Result: full marks with distinction
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis title: ''
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -124,63 +113,47 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+  - name: Italian
+    percent: 100
+  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alessandro Suglia is an Assistant Professor at Heriot-Watt University (HWU) and co-lead of the "Generative AI for Robotics" theme at the National Robotarium. I am also a member of the ELLIS network and the academic liaison between HWU and the Alan Turing Institute.
+
+Alessandro’s research focuses on designing artificial agents that learn language by leveraging sensory information derived from interacting with the world and with other agents. During his PhD, he was one of the main developers of Alana, the Heriot-Watt conversational AI which ranked 3rd in the Amazon Alexa Prize challenge in 2018. In his role as Assistant Professor at HWU, he led the HWU team “EMMA”, the only non-American university team which was one of the finalists of the Amazon Simbot Challenge—the first Amazon competition to push the boundaries of Embodied Conversational AI. Alongside several academic collaborations, he also completed research collaborations with Amazon Alexa AI, Meta AI, and the European Space Agency focused on developing innovative Multimodal Generative AI models for embodied and situated human-robot interaction tasks.

@@ -6,16 +6,16 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 # SEO
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'research university'
+    org_name: 'Heriot-Watt University'
+    description: 'Alessandro Suglia is an Italian AI researcher working at Heriot-Watt University, Edinburgh.'
+    twitter: 'ale_suglia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

@@ -37,7 +37,7 @@ sections:
       text: |-
         Alessandro’s research focuses on designing artificial agents that learn language by leveraging sensory information derived from interacting with the world and with other agents. During his PhD, he was one of the main developers of Alana, the Heriot-Watt conversational AI which ranked 3rd in the Amazon Alexa Prize challenge in 2018. In his role as Assistant Professor at HWU, he led the HWU team “EMMA”, the only non-American university team which was one of the finalists of the Amazon Simbot Challenge—the first Amazon competition to push the boundaries of Embodied Conversational AI. Alongside several academic collaborations, he also completed research collaborations with Amazon Alexa AI, Meta AI, and the European Space Agency focused on developing innovative Multimodal Generative AI models for embodied and situated human-robot interaction tasks.
 
-        N.B.: This website is under construction. Content might be broken at times!
+        *N.B.: This website is under construction. Content might be broken at times!*
     design:
       columns: '1'
   - block: collection

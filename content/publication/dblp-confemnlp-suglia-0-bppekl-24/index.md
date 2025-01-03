@@ -18,4 +18,6 @@ publication: '*Findings of the Association for Computational Linguistics: EMNLP 
 links:
 - name: URL
   url: https://aclanthology.org/2024.findings-emnlp.649
+
+featured: true
 ---

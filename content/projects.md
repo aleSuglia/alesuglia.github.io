@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy building AI systems that can interact with the world and with other agents. This page will be updated soon with more info about the projects that I've done with all my collaborators and students.
       filters:
         folders:
           - project

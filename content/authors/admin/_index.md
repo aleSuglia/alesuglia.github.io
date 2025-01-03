@@ -42,9 +42,9 @@ profiles:
     url: https://orcid.org/0000-0002-3177-5197
 
 interests:
-  - Artificial Intelligence
-  - Multimodal Generative AI
-  - Embodied AI
+  - Generative AI for Robotics and Embodied AI
+  - Multimodal Learning
+  - Conversational AI
 
 education:
   - area: PhD in Robotics and Autonomous Systems 

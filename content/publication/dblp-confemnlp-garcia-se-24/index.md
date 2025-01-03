@@ -14,4 +14,5 @@ publication: '*Proceedings of the 2024 Conference on Empirical Methods in Natura
 links:
 - name: URL
   url: https://aclanthology.org/2024.emnlp-main.643
+featured: true
 ---

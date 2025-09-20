@@ -21,8 +21,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Heriot-Watt University
-    url: https://www.hw.ac.uk/
+  - name: School of Informatics, University of Edinburgh
+    url: https://informatics.ed.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -81,18 +81,31 @@ education:
       
       Thesis title: 'Content-based Recommender Systems based on Linked Open Data'
 work:
+  - position: Lecturer/Assistant Professor
+    company_name: University of Edinburgh
+    company_url: 'http://informatics.ed.ac.uk/'
+    company_logo: ''
+    date_start: 2025-01-09
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Research and development in Embodied AI and Robotics
+      - Teaching courses in NLP and Generative AI at MSc level
+      - Supervision of students at both undergraduate and postgraduate level (including PhDs)
+      - Research grants development
   - position: Assistant Professor
     company_name: Heriot-Watt University
     company_url: 'https://www.hw.ac.uk/'
     company_logo: ''
     date_start: 2022-01-01
-    date_end: ''
+    date_end: '2025-08-31'
     summary: |2-
       Responsibilities include:
       - Research and development in Embodied AI and Robotics
       - Teaching courses in Python and Java Programming as well as AI (i.e., NLP and Conversational Agents)
       - Supervision of students at both undergraduate and postgraduate level (including PhDs)
       - Research grants development
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -164,6 +177,4 @@ awards:
 
 ---
 
-## About Me
-
-Alessandro Suglia is an Assistant Professor at Heriot-Watt University (HWU) and co-lead of the "Generative AI for Robotics" theme at the National Robotarium. I am also a member of the ELLIS network and the academic liaison between HWU and the Alan Turing Institute.
+Alessandro Suglia is an Assistant Professor at the [School of Informatics, University of Edinburgh](https://informatics.ed.ac.uk/). I am also a member of the [ELLIS network](https://ellis.eu/) and a [GAIL Fellow](https://gail.ed.ac.uk/about-gail/gail-fellows).

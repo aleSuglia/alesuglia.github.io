@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'research university'
-    org_name: 'Heriot-Watt University'
-    description: 'Alessandro Suglia is an Italian AI researcher working at Heriot-Watt University, Edinburgh.'
-    twitter: 'ale_suglia'
+  org_name: 'School of Informatics, University of Edinburgh'
+  description: 'Alessandro Suglia is an Italian AI researcher working at the School of Informatics, University of Edinburgh.'
+  twitter: 'ale_suglia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

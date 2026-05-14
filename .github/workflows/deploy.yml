@@ -4,13 +4,10 @@ env:
   WC_HUGO_VERSION: '0.136.5'
 
 on:
+  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Also trigger after the import workflow pushes new publication markdown
-  workflow_run:
-    workflows: ["Import Publications from BibTeX"]
-    types: [completed]
-    branches: ["main"]
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages

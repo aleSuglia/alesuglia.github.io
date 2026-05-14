@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer
+role: Lecturer in Embodied Natural Language Processing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

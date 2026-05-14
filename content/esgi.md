@@ -27,10 +27,28 @@ sections:
       text: |-
         Our research group is fortunate to work with talented PhD students who are pushing the boundaries of embodied and situated AI:
 
-        | | | |
-        |:---:|:---:|:---:|
-        | <img width="150" src="https://ui-avatars.com/api/?name=Amit+Parekh&size=150&background=1565c0&color=fff&rounded=true"> <br> **[Amit Parekh](https://scholar.google.com/citations?user=U9F78fMAAAAJ&hl=en)** <br> Generalisation for Embodied AI | <img width="150" src="https://ui-avatars.com/api/?name=Sabrina+McCallum&size=150&background=1565c0&color=fff&rounded=true"> <br> **[Sabrina McCallum](https://www.edinburgh-robotics.org/students/sabrina-mccallum)** <br> Learning from Multimodal Feedback in Embodied AI | <img width="150" src="https://ui-avatars.com/api/?name=Malvina+Nikandrou&size=150&background=1565c0&color=fff&rounded=true"> <br> **[Malvina Nikandrou](https://malvinanikandrou.github.io/)** <br> Continual Learning for VLMs |
-        | <img width="150" src="https://ui-avatars.com/api/?name=George+Pantazopoulos&size=150&background=1565c0&color=fff&rounded=true"> <br> **[George Pantazopoulos](https://gpantaz.github.io/)** <br> Designing and Implementing VLMs | |
+        <div style="display: flex; flex-wrap: wrap; gap: 2.5rem; justify-content: center; margin: 2rem 0; not-prose: true;">
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Amit+Parekh&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://scholar.google.com/citations?user=U9F78fMAAAAJ&hl=en" target="_blank" rel="noopener">Amit Parekh</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Generalisation for Embodied AI</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Sabrina+McCallum&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://www.edinburgh-robotics.org/students/sabrina-mccallum" target="_blank" rel="noopener">Sabrina McCallum</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Learning from Multimodal Feedback in Embodied AI</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Malvina+Nikandrou&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://malvinanikandrou.github.io/" target="_blank" rel="noopener">Malvina Nikandrou</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Continual Learning for VLMs</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=George+Pantazopoulos&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://gpantaz.github.io/" target="_blank" rel="noopener">George Pantazopoulos</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Designing and Implementing VLMs</span>
+          </div>
+        </div>
 
         Together, we are working on cutting-edge research that bridges the gap between language understanding and embodied experience, creating AI systems that can truly understand and interact with the world around them.
 

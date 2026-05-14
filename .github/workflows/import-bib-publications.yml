@@ -32,10 +32,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if git diff --quiet; then
+          git add content/publication/
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git add content/publication/
             git commit -m "chore: update publications from BibTeX"
             git push
           fi

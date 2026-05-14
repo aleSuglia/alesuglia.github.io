@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -177,4 +177,4 @@ awards:
 
 ---
 
-Alessandro Suglia is an Assistant Professor at the [School of Informatics, University of Edinburgh](https://informatics.ed.ac.uk/). I am also a member of the [ELLIS network](https://ellis.eu/) and a [GAIL Fellow](https://gail.ed.ac.uk/about-gail/gail-fellows).
+Alessandro Suglia is a Lecturer at the [School of Informatics, University of Edinburgh](https://informatics.ed.ac.uk/) (equivalent to Assistant Professor in the US — a permanent academic position). I am also a member of the [ELLIS network](https://ellis.eu/) and a [GAIL Fellow](https://gail.ed.ac.uk/about-gail/gail-fellows).

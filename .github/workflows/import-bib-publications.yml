@@ -1,0 +1,41 @@
+name: Import Publications from BibTeX
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "publications.bib"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install academic CLI
+        run: pip install academic
+
+      - name: Import publications from BibTeX
+        run: academic import --bibtex publications.bib --publication-dir content/publication
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add content/publication/
+            git commit -m "chore: update publications from BibTeX"
+            git push
+          fi

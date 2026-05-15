@@ -7,14 +7,31 @@ authors:
 - Nikolas Vitsakis
 - Ioannis Konstas
 - Alessandro Suglia
-date: '2024-01-01'
+date: '2025-04-01'
 publishDate: '2025-01-03T10:44:19.518011Z'
 publication_types:
-- article-journal
-publication: '*CoRR*'
-doi: 10.48550/ARXIV.2410.15453
+- paper-conference
+publication: '*Proceedings of the 2025 Conference of the Nations of the Americas Chapter
+  of the Association for Computational Linguistics: Human Language Technologies (Volume
+  1: Long Papers)*'
+publication_short: '*NAACL 2025*'
+doi: 10.18653/v1/2025.naacl-long.402
+abstract: As Vision and Language models (VLMs) become accessible across the globe,
+  it is important that they demonstrate cultural knowledge. In his paper, we introduce
+  CROPE, a visual question answering benchmark designed to probe the knowledge of
+  culture-specific concepts and evaluate the capacity for cultural adaptation through
+  contextual information. This allows us to distinguish between parametric knowledge
+  acquired during training and contextual knowledge provided during inference via
+  visual and textual descriptions. Our evaluation of several state-of-the-art open
+  VLMs shows large performance disparities between culture-specific and common concepts
+  in the parametric setting. Moreover, experiments with contextual knowledge indicate
+  that models struggle to effectively utilize multimodal information and bind culture
+  specific concepts to their depictions. Our findings reveal limitations in the cultural
+  understanding and adaptability of current VLMs that need to be addressed toward
+  more culturally inclusive models.
 links:
 - name: URL
-  url: https://doi.org/10.48550/arXiv.2410.15453
+  url: https://aclanthology.org/2025.naacl-long.402/
 featured: true
 ---
+CROPE, a visual question answering benchmark designed to probe the knowledge of culture-specific concepts in VLMs.

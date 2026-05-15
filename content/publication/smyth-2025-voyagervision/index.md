@@ -14,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2026-01-02'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2026-05-14T15:25:24.968500Z'
@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint arXiv:2507.00079*'
+publication: '*Advances in Intelligent Systems and Computing ((AISC,volume 1468))*'
 publication_short: ''
 
 doi: ''
@@ -41,11 +41,11 @@ tags: []
 featured: true
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-032-07938-1_31'
+url_code: 'https://github.com/ESmyth-dev/VoyagerVision'
+url_project: 'https://esmyth-dev.github.io/VoyagerVision.github.io/'
 url_dataset: ''
 url_poster: ''
-url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -70,4 +70,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+An open-ended multimodal embodied agents for the Minecraft game.

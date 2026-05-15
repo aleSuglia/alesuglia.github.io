@@ -26,8 +26,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*CoRR*'
-publication_short: ''
+publication: '*International Conference on Machine Learning 2026*'
+publication_short: 'ICML 2026'
 
 doi: 10.48550/ARXIV.2603.06148
 
@@ -71,7 +71,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://doi.org/10.48550/arXiv.2603.06148
+  url: https://arxiv.org/abs/2603.06148
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+A comprehensive study of Vision-Language Models' behavioural robustness.

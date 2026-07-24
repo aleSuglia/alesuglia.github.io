@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
+summary: "Alessandro Suglia is a Lecturer (Assistant Professor) in Embodied Natural Language Processing at the School of Informatics, University of Edinburgh, researching multimodal generative AI for embodied and situated human-robot interaction, with research collaborations including Amazon Alexa AI, Meta AI, and the European Space Agency."
 date: 2022-10-24
 type: landing
 

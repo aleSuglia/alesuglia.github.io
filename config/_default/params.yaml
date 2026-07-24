@@ -13,13 +13,13 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'research university'
+    description: 'Alessandro Suglia is a Lecturer (Assistant Professor) in Embodied Natural Language Processing at the School of Informatics, University of Edinburgh, researching multimodal generative AI for embodied and situated human-robot interaction, with research collaborations including Amazon Alexa AI, Meta AI, and the European Space Agency.'
   org_name: 'School of Informatics, University of Edinburgh'
-  description: 'Alessandro Suglia is an Italian AI researcher working at the School of Informatics, University of Edinburgh.'
   twitter: 'ale_suglia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    plausible: ''
+    plausible: 'alesuglia.github.io'
     fathom: ''
     pirsch: ''
   verification:
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Alessandro Suglia. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

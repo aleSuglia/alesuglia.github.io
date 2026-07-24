@@ -1,0 +1,24 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alessandro Suglia",
+  "url": "{{ .Site.BaseURL }}",
+  "jobTitle": "Lecturer in Embodied Natural Language Processing",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Edinburgh",
+    "url": "https://informatics.ed.ac.uk/"
+  },
+  "sameAs": [
+    "https://twitter.com/ale_suglia",
+    "https://github.com/aleSuglia",
+    "https://www.linkedin.com/in/alessandrosuglia",
+    "https://scholar.google.com/citations?user=429MAoUAAAAJ&hl=en",
+    "https://orcid.org/0000-0002-3177-5197",
+    "https://dblp.org/pid/184/4588.html"
+  ]
+}
+</script>
+{{ end }}

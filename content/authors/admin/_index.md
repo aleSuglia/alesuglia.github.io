@@ -37,9 +37,11 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alessandrosuglia
   - icon: academicons/google-scholar
-    url: https://scholar.google.co.uk/citations?hl=en&user=429MAoUAAAAJ
+    url: https://scholar.google.com/citations?user=429MAoUAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3177-5197
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/184/4588.html
 
 interests:
   - Generative AI for Robotics and Embodied AI

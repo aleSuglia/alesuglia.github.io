@@ -26,8 +26,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*CoRR*'
-publication_short: ''
+publication: '*Transactions on Machine Learning Research 2026*'
+publication_short: 'TMLR 2026'
 
 doi: 10.48550/ARXIV.2603.13354
 

@@ -43,6 +43,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 0
       filters:
         folders:
           - publication

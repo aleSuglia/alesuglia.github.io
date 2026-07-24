@@ -13,6 +13,10 @@ publication_types:
 - paper-conference
 publication: '*EMNLP 2021 Workshop on Novel Ideas in Learning-to-Learn through Interaction*'
 featured: true
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 links:
 - name: URL
   url: https://www.amazon.science/publications/embodied-bert-a-transformer-model-for-embodied-language-guided-visual-task-completion

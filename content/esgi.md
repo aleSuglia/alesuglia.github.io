@@ -20,6 +20,8 @@ sections:
         - **Human-Robot Interaction**: Designing conversational AI that builds common ground with humans and other agents in embodied, multi-agent settings
         - **Multimodal Learning**: Integrating vision, language, and action for comprehensive understanding
 
+        Explore our open-source projects and code on [GitHub](https://github.com/esgi-research-group).
+
   - block: markdown
     content:
       title: "PhD Students"

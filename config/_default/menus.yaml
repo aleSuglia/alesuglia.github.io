@@ -16,6 +16,9 @@ main:
   - name: ESGI Research Group
     url: esgi/
     weight: 13
+  - name: Collaborate
+    url: collaborate/
+    weight: 14
   # - name: Talks
   #   url: /#talks
   #   weight: 14

@@ -1,0 +1,46 @@
+/* Tighter heading spacing and smaller body type for content-dense pages
+   (e.g. content/collaborate.md, content/esgi.md), which use the `compact-prose` block class. */
+.compact-prose .text-3xl.font-bold {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.compact-prose .prose {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.compact-prose .prose h3 {
+  margin-top: 1.1em;
+  margin-bottom: 0.4em;
+}
+
+.compact-prose .prose p,
+.compact-prose .prose ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.compact-prose .prose details {
+  margin: 0.75rem 0;
+  padding: 0.6rem 1rem;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 0.5rem;
+}
+
+.compact-prose .prose details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.compact-prose .prose details summary strong {
+  font-weight: 600;
+}
+
+.compact-prose .prose details[open] summary {
+  margin-bottom: 0.5rem;
+}
+
+.compact-prose .prose details > :last-child {
+  margin-bottom: 0;
+}

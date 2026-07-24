@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-summary: "Alessandro Suglia is a Lecturer (Assistant Professor) in Embodied Natural Language Processing at the School of Informatics, University of Edinburgh, researching multimodal generative AI for embodied and situated human-robot interaction, with research collaborations including Amazon Alexa AI, Meta AI, and the European Space Agency."
+summary: "Alessandro Suglia is a Lecturer (Assistant Professor) in Embodied Natural Language Processing at the School of Informatics, University of Edinburgh, researching multimodal generative AI for embodied and situated human-robot interaction, with research collaborations including Amazon Alexa AI, Meta AI, Sony PlayStation, and the European Space Agency."
 date: 2022-10-24
 type: landing
 
@@ -36,7 +36,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Alessandro’s research focuses on designing artificial agents that learn language by leveraging sensory information derived from interacting with the world and with other agents. He is a Lecturer at the School of Informatics, University of Edinburgh. Alongside several academic collaborations, he also completed research collaborations with Amazon Alexa AI, Meta AI, and the European Space Agency focused on developing innovative Multimodal Generative AI models for embodied and situated human-robot interaction tasks.
+        Alessandro’s research focuses on designing artificial agents that learn language by leveraging sensory information derived from interacting with the world and with other agents. He is a Lecturer at the School of Informatics, University of Edinburgh. Alongside several academic collaborations, he also completed research collaborations with Amazon Alexa AI, Meta AI, Sony PlayStation, and the European Space Agency focused on developing innovative Multimodal Generative AI models for embodied and situated human-robot interaction tasks.
     design:
       columns: '1'
   - block: collection

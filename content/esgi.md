@@ -7,6 +7,8 @@ design:
   spacing: "5rem"
 sections:
   - block: markdown
+    design:
+      css_class: "compact-prose"
     content:
       title: "Research Group"
       subtitle: "Embodied, Situated and Grounded Intelligence"
@@ -23,6 +25,8 @@ sections:
         Explore our open-source projects and code on [GitHub](https://github.com/esgi-research-group).
 
   - block: markdown
+    design:
+      css_class: "compact-prose"
     content:
       title: "PhD Students"
       subtitle: "Current Research Team"
@@ -65,6 +69,8 @@ sections:
         Together, we are working on cutting-edge research that bridges the gap between language understanding and embodied experience, creating AI systems that can truly understand and interact with the world around them.
 
   - block: markdown
+    design:
+      css_class: "compact-prose"
     content:
       title: "Affiliates"
       subtitle: "Postdoctoral Researchers"
@@ -83,6 +89,8 @@ sections:
         </div>
 
   - block: markdown
+    design:
+      css_class: "compact-prose"
     content:
       title: "Alumni, Visiting Students and Interns"
       text: |-

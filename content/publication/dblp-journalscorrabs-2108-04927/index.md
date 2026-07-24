@@ -10,9 +10,10 @@ authors:
 date: '2021-01-01'
 publishDate: '2025-01-03T10:44:19.621108Z'
 publication_types:
-- article-journal
-publication: '*CoRR*'
+- paper-conference
+publication: '*EMNLP 2021 Workshop on Novel Ideas in Learning-to-Learn through Interaction*'
+featured: true
 links:
 - name: URL
-  url: https://arxiv.org/abs/2108.04927
+  url: https://www.amazon.science/publications/embodied-bert-a-transformer-model-for-embodied-language-guided-visual-task-completion
 ---

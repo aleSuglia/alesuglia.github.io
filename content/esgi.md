@@ -35,24 +35,9 @@ sections:
 
         <div style="display: flex; flex-wrap: wrap; gap: 2.5rem; justify-content: center; margin: 2rem 0; not-prose: true;">
           <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
-            <img src="https://ui-avatars.com/api/?name=Amit+Parekh&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <strong><a href="https://scholar.google.com/citations?user=U9F78fMAAAAJ&hl=en" target="_blank" rel="noopener">Amit Parekh</a></strong>
-            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Generalisation for Embodied AI</span>
-          </div>
-          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
             <img src="https://ui-avatars.com/api/?name=Sabrina+McCallum&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
             <strong><a href="https://www.edinburgh-robotics.org/students/sabrina-mccallum" target="_blank" rel="noopener">Sabrina McCallum</a></strong>
             <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Learning from Multimodal Feedback in Embodied AI</span>
-          </div>
-          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
-            <img src="https://ui-avatars.com/api/?name=Malvina+Nikandrou&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <strong><a href="https://malvinanikandrou.github.io/" target="_blank" rel="noopener">Malvina Nikandrou</a></strong>
-            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Continual Learning for VLMs</span>
-          </div>
-          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
-            <img src="https://ui-avatars.com/api/?name=George+Pantazopoulos&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <strong><a href="https://gpantaz.github.io/" target="_blank" rel="noopener">George Pantazopoulos</a></strong>
-            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Designing and Implementing VLMs</span>
           </div>
           <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
             <img src="https://ui-avatars.com/api/?name=Sophie+Higham&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
@@ -63,6 +48,26 @@ sections:
             <img src="https://ui-avatars.com/api/?name=Joe+Kelliher&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
             <strong><a href="https://uk.linkedin.com/in/joseph-kelliher-a24a0b222" target="_blank" rel="noopener">Joe Kelliher</a></strong>
             <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Continual Learning for VLAs</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Siddarth+Singh&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://scholar.google.com/citations?user=RDxZpTwAAAAJ&hl=en" target="_blank" rel="noopener">Siddarth Singh</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Embodied AI for Cooperative Multi-agent Interaction</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Martina+Cadiz-Leyton&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://scholar.google.com/citations?user=CxcWiKoAAAAJ&hl=en" target="_blank" rel="noopener">Martina Cádiz-Leyton</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Embodied AI for Effective and Efficient Decision-Making</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Russell+de+Roeper&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://uk.linkedin.com/in/russellderoeper" target="_blank" rel="noopener">Russell de Roeper</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">Memory Architectures for Embodied AI</span>
+          </div>
+          <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+            <img src="https://ui-avatars.com/api/?name=Mohammadreza+Dindarloo&size=200&background=1565c0&color=fff&rounded=true" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <strong><a href="https://scholar.google.com/citations?user=MUvoM5QAAAAJ&hl=en" target="_blank" rel="noopener">Mohammadreza Dindarloo</a></strong>
+            <span style="font-size: 0.85rem; color: #6b7280; margin-top: 0.35rem; line-height: 1.4;">World Models for Embodied AI</span>
           </div>
         </div>
 
@@ -96,7 +101,10 @@ sections:
       text: |-
         Current list of students who have worked with us: 
         ### Alumni
-        - **[Javier Chiya Garcia](https://jchiyah.github.io/)** (Graduated 2025)
+        - **[George Pantazopoulos](https://gpantaz.github.io/)** (PhD, Graduated 2026)
+        - **[Malvina Nikandrou](https://malvinanikandrou.github.io/)** (PhD, Graduated 2026)
+        - **[Amit Parekh](https://scholar.google.com/citations?user=U9F78fMAAAAJ&hl=en)** (PhD, Graduated 2026)
+        - **[Javier Chiya Garcia](https://jchiyah.github.io/)** (PhD, Graduated 2025)
 
         ### Visiting Students and Interns
         - **[Riccardo Andrea Izzo](https://scholar.google.com/citations?user=7EMSspUAAAAJ&hl=it)** (Visiting from Polytechnic Milan)
